@@ -1,2 +1,9 @@
 # react-shop
-an e-commerce page built with React JS
+
+An e-commerce page built with React JS
+
+- HTML
+- CSS3
+- JS
+- Responsive Design
+- React
